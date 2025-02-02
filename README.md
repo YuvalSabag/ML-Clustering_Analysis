@@ -1,7 +1,6 @@
 ## Image Face Clustering with Machine Learning
 
-This project applies **unsupervised machine learning** for **face clustering** using a dataset of facial images. It involves **image preprocessing, feature extraction, and clustering** with **K-Means** and **DBSCAN** to group similar faces based on facial embeddings.  
-The goal is to identify patterns in facial data using **face recognition algorithms** and **clustering models**.
+This project applies **unsupervised machine learning** for **face clustering** using a dataset of facial images. It involves **image preprocessing, feature extraction, and clustering** with **K-Means** and **DBSCAN** to group similar faces based on facial embeddings. The goal is to identify patterns in facial data using **face recognition algorithms** and **clustering models**.
 
 ### Key Objectives
 - **Preprocessing**: Detect and crop faces from images, extracting features using `face_recognition` library.
